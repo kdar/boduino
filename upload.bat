@@ -1,0 +1,1 @@
+avrdude -c usbtiny -p attiny85 -P usb -U flash:w:tvbgone.hex
